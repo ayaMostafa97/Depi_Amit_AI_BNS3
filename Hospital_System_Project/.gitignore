@@ -1,0 +1,27 @@
+
+
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# PyInstaller / build
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
